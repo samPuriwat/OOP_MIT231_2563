@@ -15,9 +15,9 @@ public class Exercise_Lab4_1 {
         switch (s) {  //int or char
             case 1: findAreaRec();
                 break;
-            case 2: findAreaTri();
+            case 2: //findAreaTri();
                 break;
-            case 3: findAreaCir();
+            case 3: //findAreaCir();
                 break;
             default:System.out.println("Please, select 1-3. thank.");
         }
